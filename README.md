@@ -1,7 +1,3 @@
-Here’s a completely rephrased README file for the **Credit Card Fraud Detection** project:  
-
----
-
 # **Credit Card Fraud Detection 🚨**  
 
 ## **Overview**  
